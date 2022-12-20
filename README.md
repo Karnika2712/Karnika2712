@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Karnika Nameirakpam<br>👀 I’m interested in Data Science, Artificial Intelligence.<br>🌱 I’m currently learning Python programming and data science concepts.<br>💞️ I’m looking to collaborate on building projects using AI, ML and DL.<br>📫 How to reach me karnikanameirakpam4@gmail.com<br>✨ A fun fact about me.....TBC
+👋 Hi, I’m Karnika Nameirakpam<br>👀 I’m interested in Data Science, Artificial Intelligence.<br>🌱 I’m currently learning Python programming and data science concepts.<br>💞️ I’m looking to collaborate on building projects using AI, ML and DL.<br>📫 How to reach me karnikanameirakpam3@gmail.com<br>✨ A fun fact about me.....TBC
 
 
 ## 🌐 Socials:
